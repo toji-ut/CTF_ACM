@@ -1,0 +1,3 @@
+Q002 (10 pts). Magic Code  
+
+Hint: Compile and see

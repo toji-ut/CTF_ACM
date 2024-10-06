@@ -1,0 +1,4 @@
+Q005 (10 pts). Needle Hunt.
+
+Hint: the flag is hidden in one of the files ...
+Simple Linux command.
