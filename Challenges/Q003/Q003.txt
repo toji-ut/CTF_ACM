@@ -1,4 +1,0 @@
-Q003 (15 pts). SHA256
-
-Which of the flags.txt generates sha256 sum below?
-d21ae10a3ef65258b8e4d459216bd64f633224b244e9bfae888ebbc43e6a8098
