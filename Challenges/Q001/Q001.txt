@@ -1,0 +1,3 @@
+Q001 (10 pts). Encoding.
+
+Hint: decode the flag in data.txt.
